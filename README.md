@@ -1,3 +1,9 @@
+<h1 align="center"> 
+   <a href="https://git.io/typing-svg"> 
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋 ;&center=true&size=30"> 
+   </a> 
+ </h1>
+
 # 💫 About Me:
 🔭 I’m currently working on **my Portfolio**<br>🌱 I’m currently learning **Ruby on Rails**<br>💬 Ask me Anything<br>⚡ Fun fact **I've been learning HTML, CSS , JS, GoLang, Python, Bash, PHP & Typescript For 3 Years.**
 
