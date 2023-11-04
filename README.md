@@ -3,7 +3,7 @@
  </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on [**EverCrisisGuides**](https://github.com/xAstroDev/EverCrisisGuides)<br>🌱 I’m currently learning **Ruby on Rails**<br>💬 Ask me Anything<br>⚡ Fun fact **I've been learning HTML, CSS , JS, GoLang, Python, Bash, PHP & Typescript For 3 Years.**
+🔭 I’m currently working on <br>🌱 I’m currently learning **Ruby on Rails**<br>💬 Ask me Anything<br>⚡ Fun fact **I've been learning HTML, CSS , JS, GoLang, Python, Bash, PHP & Typescript For 4 Years.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xastrodev&label=Profile%20views&color=0e75b6&style=flat" alt="xastrodev" /> </p>
 
