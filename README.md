@@ -3,7 +3,7 @@
  </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on <br>🌱 I’m currently learning **Machine Learning & AI**<br>💬 Ask me Anything<br>⚡ Fun fact **I've been learning HTML, CSS , JS, GoLang, Python, Bash, PHP & Typescript For 5 Years.**
+ <br>🌱 I’m currently learning **Machine Learning & AI**<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xastrodev&label=Profile%20views&color=0e75b6&style=flat" alt="xastrodev" /> </p>
 
